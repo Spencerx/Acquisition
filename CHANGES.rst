@@ -4,6 +4,10 @@ Change log
 6.3 (unreleased)
 ----------------
 
+- Add support for automatically building and publishing Windows/ARM64 wheels.
+
+- Add support for automatically building and publishing source distributions.
+
 
 6.2 (2025-11-16)
 ----------------
